@@ -14,7 +14,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author DILSHAN
+ * @author SANDUN HARSHANA
  */
 
 
