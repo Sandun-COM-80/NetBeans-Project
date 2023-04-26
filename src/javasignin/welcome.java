@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author DILSHAN
+ * @author SANDUN HARSHANA
  */
 public class welcome extends javax.swing.JFrame {
  int mouseX;
